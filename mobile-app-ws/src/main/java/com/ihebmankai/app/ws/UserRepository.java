@@ -8,4 +8,6 @@ import com.ihebmankai.app.ws.io.entity.UserEntity;
 @Repository
 public interface UserRepository extends CrudRepository<UserEntity, Long> {
 	
+	//test
+	
 }
